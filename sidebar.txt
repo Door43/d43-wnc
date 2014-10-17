@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wnc:home|Door43 (wnc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wnc|d43-wnc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wnc/archive/master.zip|d43-wnc.zip]]
+
+**Recent Changes**
+{{changes>ns = wnc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wnc|Ethnologue data]]
+
